@@ -1,2 +1,2 @@
 # NeatIdeasList
-Just simple training app
+Just simple app made with React for training purposes.
